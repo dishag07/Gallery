@@ -8,9 +8,7 @@ nav {
 }
 
 body {
-    background-color: #FFE5EC;
-}
-
-#lover {
-    background-color: #FFB3C6;
+    background-image: url("/Gallery/img/rasberries.webp");
+    background-size: cover;
+    background-position: center;
 }
